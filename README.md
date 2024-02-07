@@ -1,2 +1,2 @@
 # genetic-algo-godot
- A genetic optimization algorithm in Godot.
+ A fun lil natural selection simulation using a genetic optimization algorithm in Godot.
